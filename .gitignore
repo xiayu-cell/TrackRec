@@ -1,0 +1,27 @@
+# 忽略 .json 文件
+*.json
+
+# 忽略 .hist 文件
+*.hist
+
+# 忽略 .item 文件
+*.item
+
+*.gz
+
+*.test
+*.train
+*.klg
+*.log
+*.png
+
+*.bin
+*.pt
+*.pth
+
+RS_xiayu/
+sim/
+train_cot/
+RS copy/
+
+RS/model/

@@ -19,9 +19,6 @@
 *.pt
 *.pth
 
-RS_xiayu/
-sim/
-train_cot/
-RS copy/
+*.log
 
 RS/model/

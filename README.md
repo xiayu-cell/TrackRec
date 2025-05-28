@@ -33,7 +33,7 @@
 
 7. TrackRec can integrate the generated RecCoT into any traditional recommendation model to improve its performance. We provide the RecCoT generated at each stage along with the corresponding embeddings, which can be found at the link above.
    For example, with Amazon-Books, you can run:
-   1. `cd Rec/RS
+   1. `cd Rec/RS`
    2. `python run_ctr.py` for ctr task
 
 Our implementation code is based on : 

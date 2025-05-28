@@ -1,5 +1,9 @@
 ## TrackRec: Iterative Alternating Feedback with Chain-of-Thought via Preference Alignment for Recommendation
 
+## Install
+1. If you want to perform distillation and iterative alternating feedback learning, you need to install:[safe-rlhf]([https://github.com/YunjiaXi/Open-World-Knowledge-Augmented-Recommendation/tree/main](https://github.com/PKU-Alignment/safe-rlhf))
+2. To enable CoT-enhanced training for traditional recommendation models, you need to install [KAR](https://github.com/YunjiaXi/Open-World-Knowledge-Augmented-Recommendation/tree/main)
+
 ## Setup
 
 1. Download dataset

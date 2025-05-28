@@ -8,7 +8,7 @@
 
 1. Download dataset
    
-   Take Amazon-Books for example, download the dataset to folder `data/amz/proc_data/` on [Here]([https://drive.google.com/drive/folders/1OdL6JPq_UZUSCO3skAIX3NOxF81goB3F?usp=sharing](https://drive.google.com/drive/folders/1hZHRhdNC9espzom_ySpXH7EA78njZfci?usp=drive_link))
+   Take Amazon-Books for example, download the dataset to folder `data/amz/proc_data/` on [Here](https://drive.google.com/drive/folders/1OdL6JPq_UZUSCO3skAIX3NOxF81goB3F?usp=sharing)
    1. /raw_data contains the raw dataset.
    2. /proc_data stores the processed data built from raw_data, including:  
       （1）ID features for training traditional recommendation models  

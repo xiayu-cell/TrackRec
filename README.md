@@ -25,5 +25,5 @@
      `python run_ctr.py` for ctr task
 
 Our implementation code is based on : 
-[Safe RLHF](Safe RLHF: Safe Reinforcement Learning from Human Feedback)
+[safe-rlhf]([https://github.com/YunjiaXi/Open-World-Knowledge-Augmented-Recommendation/tree/main](https://github.com/PKU-Alignment/safe-rlhf))
 [KAR](https://github.com/YunjiaXi/Open-World-Knowledge-Augmented-Recommendation/tree/main)

@@ -9,20 +9,20 @@
 2. We have provided our processed dataset as well as the distilled dataset. We have retained a small portion of the data in the code, and the complete dataset can be found at the link above.
 
 3. If you wish to perform distillation, you can run:：
-     `cd TrackRec`
-     `bash run_distill.sh`
+   1. `cd TrackRec`
+   2. `bash run_distill.sh`
    
-4. If you want to conduct iterative alternating feedback learning, you can run the following script (which includes all processes):
-     `bash self_play_by_epoch`
+5. If you want to conduct iterative alternating feedback learning, you can run the following script (which includes all processes):
+   1. `bash self_play_by_epoch`
 
-5. To test the metrics of the iterative alternating feedback learning, you can run the following code:：
-     `cd TrackRec/test`
-     `bash test.sh`
+6. To test the metrics of the iterative alternating feedback learning, you can run the following code:：
+   1. `cd TrackRec/test`
+   2. `bash test.sh`
 
-6. TrackRec can integrate the generated RecCoT into any traditional recommendation model to improve its performance. We provide the RecCoT generated at each stage along with the corresponding embeddings, which can be found at the link above.
-    For example, with Amazon-Books, you can run:
-     `cd Rec/RS
-     `python run_ctr.py` for ctr task
+7. TrackRec can integrate the generated RecCoT into any traditional recommendation model to improve its performance. We provide the RecCoT generated at each stage along with the corresponding embeddings, which can be found at the link above.
+   For example, with Amazon-Books, you can run:
+   1. `cd Rec/RS
+   2. `python run_ctr.py` for ctr task
 
 Our implementation code is based on : 
 [safe-rlhf]([https://github.com/YunjiaXi/Open-World-Knowledge-Augmented-Recommendation/tree/main](https://github.com/PKU-Alignment/safe-rlhf))
